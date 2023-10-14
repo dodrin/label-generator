@@ -1,0 +1,21 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+body {
+  max-width: 900px;
+
+}
+
+.nav-bar {
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+
+  li {
+    list-style-type: none;
+  }
+}

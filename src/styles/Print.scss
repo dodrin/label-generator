@@ -1,0 +1,10 @@
+@media print {
+  body {
+    margin: 0;
+    width: 100%;
+  }
+
+  .nav-bar {
+    display: none;
+  }
+}
