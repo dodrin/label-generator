@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SKU-Label-Generator/static/css/main.e773d7ef.css",
-    "main.js": "/SKU-Label-Generator/static/js/main.012356de.js",
-    "static/js/787.4fcd9a1d.chunk.js": "/SKU-Label-Generator/static/js/787.4fcd9a1d.chunk.js",
-    "index.html": "/SKU-Label-Generator/index.html",
-    "main.e773d7ef.css.map": "/SKU-Label-Generator/static/css/main.e773d7ef.css.map",
-    "main.012356de.js.map": "/SKU-Label-Generator/static/js/main.012356de.js.map",
-    "787.4fcd9a1d.chunk.js.map": "/SKU-Label-Generator/static/js/787.4fcd9a1d.chunk.js.map"
+    "main.css": "./static/css/main.e773d7ef.css",
+    "main.js": "./static/js/main.ab9d88fd.js",
+    "static/js/787.4fcd9a1d.chunk.js": "./static/js/787.4fcd9a1d.chunk.js",
+    "index.html": "./index.html",
+    "main.e773d7ef.css.map": "./static/css/main.e773d7ef.css.map",
+    "main.ab9d88fd.js.map": "./static/js/main.ab9d88fd.js.map",
+    "787.4fcd9a1d.chunk.js.map": "./static/js/787.4fcd9a1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e773d7ef.css",
-    "static/js/main.012356de.js"
+    "static/js/main.ab9d88fd.js"
   ]
 }
