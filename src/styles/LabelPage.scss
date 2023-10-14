@@ -1,0 +1,18 @@
+.label-page {
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  li {
+    list-style-type: none;
+    height: 250px;
+    width: 400px;
+    border: solid 1px;
+
+    span {
+      font-size: 3.5rem;
+      font-weight: bold;
+    }
+  }
+}
