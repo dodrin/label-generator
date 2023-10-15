@@ -4,7 +4,7 @@
   align-content: center;
 }
 body {
-  max-width: 900px;
+  // max-width: 900px;
 
 }
 
@@ -17,5 +17,11 @@ body {
 
   li {
     list-style-type: none;
+    font-family: 'Space Mono', monospace;
+    
+  }
+
+  a {
+    text-decoration: none;
   }
 }

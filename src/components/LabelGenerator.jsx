@@ -10,7 +10,7 @@ const LabelGenerator = ({ onGenerateLabels }) => {
   const navigate = useNavigate(); // Get the navigate function
 
   const [start, setStart] = useState(30500);
-  const [end, setEnd] = useState(30501);
+  const [end, setEnd] = useState(30515);
 
   const handleStartChange = (e) => {
     setStart(parseInt(e.target.value));
@@ -26,7 +26,7 @@ const LabelGenerator = ({ onGenerateLabels }) => {
       newLabels.push(i);
     }
     onGenerateLabels(newLabels); // Call the callback to set labels in App
-    navigate('/labels'); // Navigate to the /labels route after generating labels
+    navigate('/label-generator/labels'); // Navigate to the /labels route after generating labels
   };
 
   return (
